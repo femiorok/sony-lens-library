@@ -1,7 +1,7 @@
 {
   "main.css": "/sony-lens-library/static/css/main.bccf3425.chunk.css",
-  "main.js": "/sony-lens-library/static/js/main.4dcdd436.chunk.js",
-  "main.js.map": "/sony-lens-library/static/js/main.4dcdd436.chunk.js.map",
+  "main.js": "/sony-lens-library/static/js/main.64e8d269.chunk.js",
+  "main.js.map": "/sony-lens-library/static/js/main.64e8d269.chunk.js.map",
   "static/js/1.03ae7ea8.chunk.js": "/sony-lens-library/static/js/1.03ae7ea8.chunk.js",
   "static/js/1.03ae7ea8.chunk.js.map": "/sony-lens-library/static/js/1.03ae7ea8.chunk.js.map",
   "static/js/2.45d599a8.chunk.js": "/sony-lens-library/static/js/2.45d599a8.chunk.js",
@@ -11,6 +11,6 @@
   "static/media/logo.svg": "/sony-lens-library/static/media/logo.06e73328.svg",
   "static/css/main.bccf3425.chunk.css.map": "/sony-lens-library/static/css/main.bccf3425.chunk.css.map",
   "index.html": "/sony-lens-library/index.html",
-  "precache-manifest.16abe6d8bb9fc0d0b01a177022123e98.js": "/sony-lens-library/precache-manifest.16abe6d8bb9fc0d0b01a177022123e98.js",
+  "precache-manifest.553a31a218448ad21a2335d5678dfbf0.js": "/sony-lens-library/precache-manifest.553a31a218448ad21a2335d5678dfbf0.js",
   "service-worker.js": "/sony-lens-library/service-worker.js"
 }

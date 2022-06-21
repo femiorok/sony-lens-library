@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4dcdd4364f0e6daec52d",
+    "revision": "64e8d2696ad2ff8a9807",
     "url": "/sony-lens-library/static/css/main.bccf3425.chunk.css"
   },
   {
-    "revision": "4dcdd4364f0e6daec52d",
-    "url": "/sony-lens-library/static/js/main.4dcdd436.chunk.js"
+    "revision": "64e8d2696ad2ff8a9807",
+    "url": "/sony-lens-library/static/js/main.64e8d269.chunk.js"
   },
   {
     "revision": "03ae7ea834bbe7645a20",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/sony-lens-library/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "fc8f89ba7a98d7afa0eba53f4e43b2d2",
+    "revision": "387cc16c3b09627942d76c3fe5d35f24",
     "url": "/sony-lens-library/index.html"
   }
 ];

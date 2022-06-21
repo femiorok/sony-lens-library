@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sony-lens-library/precache-manifest.553a31a218448ad21a2335d5678dfbf0.js"
+  "/sony-lens-library/precache-manifest.121c852520ae323bb7153a0ac1da021f.js"
 );
 
 workbox.clientsClaim();

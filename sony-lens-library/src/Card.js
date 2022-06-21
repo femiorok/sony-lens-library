@@ -10,7 +10,7 @@ const Card = ({ list }) => {
           <a href={ url }><img className="h4" src={image} alt="Lens"></img></a>
           <h2>{ name } </h2>
           <h2>{ salePrice } </h2>
-          <h3>{ sku }</h3>
+          <h3>SKU: { sku }</h3>
           </div>
         ))}
         

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sony-lens-library/static/css/main.cd4f3fc8.css",
+    "main.js": "/sony-lens-library/static/js/main.9e4aa1ea.js",
+    "static/js/787.ecc5d2b1.chunk.js": "/sony-lens-library/static/js/787.ecc5d2b1.chunk.js",
+    "index.html": "/sony-lens-library/index.html",
+    "main.cd4f3fc8.css.map": "/sony-lens-library/static/css/main.cd4f3fc8.css.map",
+    "main.9e4aa1ea.js.map": "/sony-lens-library/static/js/main.9e4aa1ea.js.map",
+    "787.ecc5d2b1.chunk.js.map": "/sony-lens-library/static/js/787.ecc5d2b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd4f3fc8.css",
+    "static/js/main.9e4aa1ea.js"
+  ]
+}

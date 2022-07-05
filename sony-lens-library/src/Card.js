@@ -12,6 +12,7 @@ const Card = ({ list }) => {
           <h2>{ name } </h2>
           <h2>${ salePrice } </h2>
           <h3>SKU: { sku }</h3>
+          <p className='font-bold'>See More...</p>
           </div>
           </div>
         ))}
